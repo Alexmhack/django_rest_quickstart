@@ -42,6 +42,9 @@ INSTALLED_APPS = [
 
     # django app
     'quickstart',
+
+    # dependencies
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
